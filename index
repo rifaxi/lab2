@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+
+<head>
+<title>Tytuł strony</title>
+
+
+
+<link rel="stylesheet" href="styl.css" type="text/css" />
+
+	<link rel="stylesheet" type="text/css" href="style2.css" media="only screen and (max-width:1100px)" />
+			<link rel="stylesheet" type="text/css" href="style3.css" media="only screen and (max-width:768px)" />
+			<link rel="stylesheet" type="text/css" href="style4.css" media="only screen and (max-width:450px)" />
+</head>
+
+<body>
+
+<header><img style="width:15%; margin:0 auto; display:block;" src="banner-transparent-golden-1.png" alt="Tekst alternatywny" /></header>
+
+<section><article>Lorem ipsum dus mus. Donec sodales eros. Curabitur quis massa ut justo a ligula. Vivamus arcu erat, molestie lorem sapien, lacinia aliquet nulla, faucibus quis, lorem. Vestibulum iaculis. Proin sed augue. Sed ornare, orci ipsum, ultricies a, lacinia porta. Vivamus a purus. Praesent odio tellus wisi, id tortor quis augue. Nulla lobortis ut, ligula. Fusce tellus. Donec a dolor vel lorem non nibh. Curabitur imperdiet, lorem libero, pharetra lorem sit amet dui pulvinar felis, feugiat malesuada. In.</article></section>
+<aside><p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
+			<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</p>
+
+			<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</p>
+
+			<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</p>
+			<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</p>
+
+			<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</p>
+
+			<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</p>
+			</aside>
+<section2><article2><p>Lorem at, pulvinar interdum, diam iaculis ut, ligula. Proin cursus consectetuer. Etiam id tortor. Mauris et magnis dis parturient montes, nascetur ridiculus mus. Donec sodales eros. Curabitur quis massa ut justo a ligula. Vivamus arcu erat, molestie lorem sapien, lacinia aliquet nulla, faucibus quis, lorem. Vestibulum iaculis. Proin sed augue. Sed ornare, orci ipsum, ultricies a, lacinia porta. Vivamus a purus. Praesent odio tellus wisi, id tortor quis augue. Nulla lobortis ut, ligula. Fusce tellus. Donec a dolor vel lorem non nibh. Curabitur imperdiet, lorem libero, pharetra lorem sit amet dui pulvinar felis, feugiat malesuada. In.</p></article2></section2>
+<aside2><img style="width:50%; margin:0 auto; display:block;" src="zielony-kwadrat.png" alt="Tekst alternatywny" /></aside2>
+<footer><img style="width:15%; margin:0 auto; display:block;" src="1479225488.png" alt="Tekst alternatywny" /></footer>
+
+</body>
+
+</html>
